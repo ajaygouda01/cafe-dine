@@ -1,0 +1,41 @@
+.outbox{
+    border: solid 1px;
+    height: 900px;
+    background-image: url(bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: 1900px 900px;
+
+}
+#nav{
+    border: solid 1px black;
+    height: 50px;
+    line-height: 50px;
+
+}
+#in{
+    color: black;
+    border: solid 1px;
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 25px;
+    font-weight: bold;
+}
+.out{
+    border: solid 1px pink;
+    height: 450px;
+}
+#cafe{
+    color: rebeccapurple;
+    font-size:  55px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 3px 3px 5px rgba(204, 0, 255, 0.849);
+}
+#menu{
+    border: solid 1px;
+    height: 270px;
+
+}
+#image{
+    border-radius: 50%;
+}
